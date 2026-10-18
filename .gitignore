@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+# Não versionar assets do jogo (direitos de terceiros)
+english
+english_*
+*.rar
+*.bundle
+saida/

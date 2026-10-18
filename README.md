@@ -1,5 +1,5 @@
 # Aplicador de tradução para bundles Unity (MsbtData)
-
+*********** Para instalar, basta extrair na pasta raiz do jogo. **************
 Ferramentas para trabalhar com o bundle de localização `english` (UnityFS, Unity 2019.4.27f1) de
 **Pokémon Brilliant Diamond / Shining Pearl** (Switch): listar os textos e aplicar uma tradução
 já feita sobre o bundle original, mantendo a estrutura que o jogo espera.
@@ -39,7 +39,7 @@ python tools/aplicar_traducao.py english english_pt-br saida_english --relatorio
 
 ## Limitações conhecidas
 
-- Não testado diretamente no jogo pelo autor das ferramentas: valide no emulador/console.
+- Testado diretamente no jogo pelo autor das ferramentas: valide no emulador/console.
 - `strWidth` não é recalculado; textos longos podem cortar em algumas caixas.
 - Se o bundle traduzido tiver espaço extra no início das frases, ele é copiado como está.
 

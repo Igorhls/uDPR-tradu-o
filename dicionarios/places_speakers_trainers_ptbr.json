@@ -1,0 +1,2941 @@
+{
+  "english_ss_typename": {
+    "TYPENAME_000": [
+      "Normal"
+    ],
+    "TYPENAME_001": [
+      "Lutador"
+    ],
+    "TYPENAME_002": [
+      "Voador"
+    ],
+    "TYPENAME_003": [
+      "Venenoso"
+    ],
+    "TYPENAME_004": [
+      "Terrestre"
+    ],
+    "TYPENAME_005": [
+      "Pedra"
+    ],
+    "TYPENAME_006": [
+      "Inseto"
+    ],
+    "TYPENAME_007": [
+      "Fantasma"
+    ],
+    "TYPENAME_008": [
+      "Aço"
+    ],
+    "TYPENAME_010": [
+      "Fogo"
+    ],
+    "TYPENAME_011": [
+      "Água"
+    ],
+    "TYPENAME_012": [
+      "Planta"
+    ],
+    "TYPENAME_013": [
+      "Elétrico"
+    ],
+    "TYPENAME_014": [
+      "Psíquico"
+    ],
+    "TYPENAME_015": [
+      "Gelo"
+    ],
+    "TYPENAME_016": [
+      "Dragão"
+    ],
+    "TYPENAME_017": [
+      "Sombrio"
+    ],
+    "TYPENAME_018": [
+      "Fada"
+    ]
+  },
+  "english_ss_seikaku": {
+    "SEIKAKU_000": [
+      "Firme"
+    ],
+    "SEIKAKU_001": [
+      "Solitária"
+    ],
+    "SEIKAKU_002": [
+      "Valente"
+    ],
+    "SEIKAKU_003": [
+      "Inflexível"
+    ],
+    "SEIKAKU_004": [
+      "Travessa"
+    ],
+    "SEIKAKU_005": [
+      "Ousada"
+    ],
+    "SEIKAKU_006": [
+      "Dócil"
+    ],
+    "SEIKAKU_007": [
+      "Plácida"
+    ],
+    "SEIKAKU_008": [
+      "Arteira"
+    ],
+    "SEIKAKU_009": [
+      "Desleixada"
+    ],
+    "SEIKAKU_010": [
+      "Tímida"
+    ],
+    "SEIKAKU_011": [
+      "Apressada"
+    ],
+    "SEIKAKU_012": [
+      "Séria"
+    ],
+    "SEIKAKU_013": [
+      "Alegre"
+    ],
+    "SEIKAKU_014": [
+      "Ingênua"
+    ],
+    "SEIKAKU_015": [
+      "Modesta"
+    ],
+    "SEIKAKU_016": [
+      "Branda"
+    ],
+    "SEIKAKU_017": [
+      "Quieta"
+    ],
+    "SEIKAKU_018": [
+      "Acanhada"
+    ],
+    "SEIKAKU_019": [
+      "Impulsiva"
+    ],
+    "SEIKAKU_020": [
+      "Calma"
+    ],
+    "SEIKAKU_021": [
+      "Gentil"
+    ],
+    "SEIKAKU_022": [
+      "Atrevida"
+    ],
+    "SEIKAKU_023": [
+      "Cuidadosa"
+    ],
+    "SEIKAKU_024": [
+      "Peculiar"
+    ]
+  },
+  "english_dlp_speakers_name": {
+    "DLP_SPEAKERS_NAME_000": [
+      "???"
+    ],
+    "DLP_SPEAKERS_NAME_001": [
+      "Rowan"
+    ],
+    "DLP_SPEAKERS_NAME_002": [
+      ""
+    ],
+    "DLP_SPEAKERS_NAME_003": [
+      "Palavras da Mãe"
+    ],
+    "DLP_SPEAKERS_NAME_004": [
+      "Dawn"
+    ],
+    "DLP_SPEAKERS_NAME_005": [
+      "Lucas"
+    ],
+    "DLP_SPEAKERS_NAME_006": [
+      "Oak"
+    ],
+    "DLP_SPEAKERS_NAME_007": [
+      "Mãe de ",
+      ""
+    ],
+    "DLP_SPEAKERS_NAME_008": [
+      "Mãe"
+    ],
+    "DLP_SPEAKERS_NAME_009": [
+      "Apresentador"
+    ],
+    "DLP_SPEAKERS_NAME_010": [
+      "Recruta"
+    ],
+    "DLP_SPEAKERS_NAME_011": [
+      "Pikachu"
+    ],
+    "DLP_SPEAKERS_NAME_012": [
+      "Pachirisu"
+    ],
+    "DLP_SPEAKERS_NAME_013": [
+      "Wi"
+    ],
+    "DLP_SPEAKERS_NAME_014": [
+      "Fi"
+    ],
+    "DLP_SPEAKERS_NAME_015": [
+      "Machop"
+    ],
+    "DLP_SPEAKERS_NAME_016": [
+      "Yellow"
+    ],
+    "DLP_SPEAKERS_NAME_017": [
+      "Roark"
+    ],
+    "DLP_SPEAKERS_NAME_018": [
+      "Mars"
+    ],
+    "DLP_SPEAKERS_NAME_019": [
+      "Garotinha"
+    ],
+    "DLP_SPEAKERS_NAME_020": [
+      "Papai"
+    ],
+    "DLP_SPEAKERS_NAME_021": [
+      "Clefairy"
+    ],
+    "DLP_SPEAKERS_NAME_022": [
+      "Recruta 1"
+    ],
+    "DLP_SPEAKERS_NAME_023": [
+      "Recruta 2"
+    ],
+    "DLP_SPEAKERS_NAME_024": [
+      "Cheryl"
+    ],
+    "DLP_SPEAKERS_NAME_025": [
+      "Fuego"
+    ],
+    "DLP_SPEAKERS_NAME_026": [
+      "Cynthia"
+    ],
+    "DLP_SPEAKERS_NAME_027": [
+      "Buneary"
+    ],
+    "DLP_SPEAKERS_NAME_028": [
+      "Jupiter"
+    ],
+    "DLP_SPEAKERS_NAME_029": [
+      "Gardenia"
+    ],
+    "DLP_SPEAKERS_NAME_030": [
+      "Mira"
+    ],
+    "DLP_SPEAKERS_NAME_031": [
+      "Cyrus"
+    ],
+    "DLP_SPEAKERS_NAME_032": [
+      "Dialga"
+    ],
+    "DLP_SPEAKERS_NAME_033": [
+      "Palkia"
+    ],
+    "DLP_SPEAKERS_NAME_034": [
+      "Uxie"
+    ],
+    "DLP_SPEAKERS_NAME_035": [
+      "Mesprit"
+    ],
+    "DLP_SPEAKERS_NAME_036": [
+      "Azelf"
+    ],
+    "DLP_SPEAKERS_NAME_037": [
+      "Fantina"
+    ],
+    "DLP_SPEAKERS_NAME_038": [
+      "Psyduck"
+    ],
+    "DLP_SPEAKERS_NAME_039": [
+      "Bebe"
+    ],
+    "DLP_SPEAKERS_NAME_040": [
+      "Keira"
+    ],
+    "DLP_SPEAKERS_NAME_041": [
+      "Drifloon"
+    ],
+    "DLP_SPEAKERS_NAME_042": [
+      "Tio da Creche Pokémon"
+    ],
+    "DLP_SPEAKERS_NAME_043": [
+      "Tia da Creche Pokémon"
+    ],
+    "DLP_SPEAKERS_NAME_044": [
+      "Vovó Wilma"
+    ],
+    "DLP_SPEAKERS_NAME_045": [
+      "Saturn"
+    ],
+    "DLP_SPEAKERS_NAME_046": [
+      "Maylene"
+    ],
+    "DLP_SPEAKERS_NAME_048": [
+      "Crasher Wake"
+    ],
+    "DLP_SPEAKERS_NAME_049": [
+      "Sr. Backlot"
+    ],
+    "DLP_SPEAKERS_NAME_051": [
+      "Mordomo"
+    ],
+    "DLP_SPEAKERS_NAME_050": [
+      "Dr. Pegada"
+    ],
+    "DLP_SPEAKERS_NAME_052": [
+      "Happiny"
+    ],
+    "DLP_SPEAKERS_NAME_053": [
+      "Byron"
+    ],
+    "DLP_SPEAKERS_NAME_054": [
+      "Candice"
+    ],
+    "DLP_SPEAKERS_NAME_055": [
+      "Julia"
+    ],
+    "DLP_SPEAKERS_NAME_056": [
+      "Volkner"
+    ],
+    "DLP_SPEAKERS_NAME_057": [
+      "Flint"
+    ],
+    "DLP_SPEAKERS_NAME_058": [
+      "Jasmine"
+    ],
+    "DLP_SPEAKERS_NAME_059": [
+      "Marley"
+    ],
+    "DLP_SPEAKERS_NAME_060": [
+      "Aaron"
+    ],
+    "DLP_SPEAKERS_NAME_061": [
+      "Bertha"
+    ],
+    "DLP_SPEAKERS_NAME_062": [
+      "Lucian"
+    ],
+    "DLP_SPEAKERS_NAME_063": [
+      "Buck"
+    ],
+    "DLP_SPEAKERS_NAME_064": [
+      "Shaymin"
+    ],
+    "DLP_SPEAKERS_NAME_065": [
+      "Torchic"
+    ],
+    "DLP_SPEAKERS_NAME_066": [
+      "Palmer"
+    ],
+    "DLP_SPEAKERS_NAME_067": [
+      "Skitty"
+    ],
+    "DLP_SPEAKERS_NAME_068": [
+      "Riley"
+    ],
+    "DLP_SPEAKERS_NAME_069": [
+      "Wake"
+    ],
+    "DLP_SPEAKERS_NAME_070": [
+      "Homem do Subsolo"
+    ],
+    "DLP_SPEAKERS_NAME_071": [
+      "Mestre das Frutas"
+    ],
+    "DLP_SPEAKERS_NAME_072": [
+      "Diretor do Jogo"
+    ],
+    "DLP_SPEAKERS_NAME_073": [
+      "Cyrus"
+    ],
+    "DLP_SPEAKERS_NAME_074": [
+      "DJ"
+    ],
+    "DLP_SPEAKERS_NAME_075": [
+      "Especialista"
+    ],
+    "DLP_SPEAKERS_NAME_076": [
+      "Maníaco"
+    ],
+    "DLP_SPEAKERS_NAME_077": [
+      "Capitão"
+    ],
+    "DLP_SPEAKERS_NAME_078": [
+      "Apresentador"
+    ],
+    "DLP_SPEAKERS_NAME_079": [
+      "Avaliador"
+    ],
+    "DLP_SPEAKERS_NAME_080": [
+      "Legendas"
+    ],
+    "DLP_SPEAKERS_NAME_081": [
+      "Mestre dos Adesivos"
+    ],
+    "DLP_SPEAKERS_NAME_082": [
+      "Repórter"
+    ],
+    "DLP_SPEAKERS_NAME_083": [
+      "Helena"
+    ],
+    "DLP_SPEAKERS_NAME_084": [
+      "Treinador Ás"
+    ],
+    "DLP_SPEAKERS_NAME_085": [
+      "Professor das Frutas"
+    ],
+    "DLP_SPEAKERS_NAME_086": [
+      "Serge"
+    ],
+    "DLP_SPEAKERS_NAME_087": [
+      "Tanya"
+    ],
+    "DLP_SPEAKERS_NAME_088": [
+      "Comercial"
+    ],
+    "DLP_SPEAKERS_NAME_089": [
+      "Pesquisador"
+    ],
+    "DLP_SPEAKERS_NAME_090": [
+      "Locutor"
+    ],
+    "DLP_SPEAKERS_NAME_091": [
+      "Comandante"
+    ],
+    "DLP_SPEAKERS_NAME_092": [
+      "Teala"
+    ],
+    "DLP_SPEAKERS_NAME_093": [
+      "Shinx"
+    ],
+    "DLP_SPEAKERS_NAME_094": [
+      "Budew"
+    ],
+    "DLP_SPEAKERS_NAME_095": [
+      "Chansey"
+    ],
+    "DLP_SPEAKERS_NAME_096": [
+      "Meditite"
+    ],
+    "DLP_SPEAKERS_NAME_097": [
+      "Golduck"
+    ],
+    "DLP_SPEAKERS_NAME_098": [
+      "Bibarel"
+    ],
+    "DLP_SPEAKERS_NAME_099": [
+      "Gastly"
+    ],
+    "DLP_SPEAKERS_NAME_100": [
+      "Staravia"
+    ],
+    "DLP_SPEAKERS_NAME_101": [
+      "Girafarig"
+    ],
+    "DLP_SPEAKERS_NAME_102": [
+      "Stunky"
+    ],
+    "DLP_SPEAKERS_NAME_103": [
+      "Floatzel"
+    ],
+    "DLP_SPEAKERS_NAME_104": [
+      "Shellos"
+    ],
+    "DLP_SPEAKERS_NAME_105": [
+      "Wingull"
+    ],
+    "DLP_SPEAKERS_NAME_106": [
+      "Gengar"
+    ],
+    "DLP_SPEAKERS_NAME_107": [
+      "Grande Maníaco"
+    ],
+    "DLP_SPEAKERS_NAME_108": [
+      "Plateia"
+    ],
+    "DLP_SPEAKERS_NAME_109": [
+      "Avaliador"
+    ],
+    "DLP_SPEAKERS_NAME_110": [
+      "Designer de Som"
+    ],
+    "DLP_SPEAKERS_NAME_111": [
+      "ORIGINAL"
+    ],
+    "DLP_SPEAKERS_NAME_112": [
+      "Vulpix"
+    ]
+  },
+  "english_dp_trainers_type": {
+    "DP_Trainers_Type_TR_NONE": [
+      "-"
+    ],
+    "DP_Trainers_Type_TR_TANPAN_01": [
+      "Jovem"
+    ],
+    "DP_Trainers_Type_TR_MINI_01": [
+      "Garota"
+    ],
+    "DP_Trainers_Type_TR_CAMPB_01": [
+      "Campista"
+    ],
+    "DP_Trainers_Type_TR_PICNICG_01": [
+      "Piqueniqueira"
+    ],
+    "DP_Trainers_Type_TR_MUSHI_01": [
+      "Caçador de Insetos"
+    ],
+    "DP_Trainers_Type_TR_AROMA_01": [
+      "Dama Aromática"
+    ],
+    "DP_Trainers_Type_TR_FUTAGO_01": [
+      "Gêmeas"
+    ],
+    "DP_Trainers_Type_TR_MOUNT_01": [
+      "Montanhista"
+    ],
+    "DP_Trainers_Type_TR_BATTLEG_01": [
+      "Garota de Batalha"
+    ],
+    "DP_Trainers_Type_TR_FISHING_01": [
+      "Pescador"
+    ],
+    "DP_Trainers_Type_TR_CYCLINGM_01": [
+      "Ciclista"
+    ],
+    "DP_Trainers_Type_TR_CYCLINGW_01": [
+      "Ciclista"
+    ],
+    "DP_Trainers_Type_TR_KARATE_01": [
+      "Faixa Preta"
+    ],
+    "DP_Trainers_Type_TR_ARTIST_01": [
+      "Artista"
+    ],
+    "DP_Trainers_Type_TR_BREEDERM_01": [
+      "Criador Pokémon"
+    ],
+    "DP_Trainers_Type_TR_BREEDERW_01": [
+      "Criadora Pokémon"
+    ],
+    "DP_Trainers_Type_TR_COWGIRL_01": [
+      "Vaqueira"
+    ],
+    "DP_Trainers_Type_TR_JOGGER_01": [
+      "Corredor"
+    ],
+    "DP_Trainers_Type_TR_DAISUKIM_01": [
+      "Fã de Pokémon"
+    ],
+    "DP_Trainers_Type_TR_DAISUKIW_01": [
+      "Fã de Pokémon"
+    ],
+    "DP_Trainers_Type_TR_POKEGIRL_01": [
+      "Criança Pokémon"
+    ],
+    "DP_Trainers_Type_TR_LOVELOVE_01": [
+      "Casal Jovem"
+    ],
+    "DP_Trainers_Type_TR_ELITEM_01": [
+      "Treinador Ás"
+    ],
+    "DP_Trainers_Type_TR_ELITEW_01": [
+      "Treinadora Ás"
+    ],
+    "DP_Trainers_Type_TR_WAITRESS_01": [
+      "Garçonete"
+    ],
+    "DP_Trainers_Type_TR_VETERAN_01": [
+      "Veterano"
+    ],
+    "DP_Trainers_Type_TR_SHINOBI_01": [
+      "Garoto Ninja"
+    ],
+    "DP_Trainers_Type_TR_DRAGON_01": [
+      "Domador de Dragões"
+    ],
+    "DP_Trainers_Type_TR_BIRD_01": [
+      "Criadora de Aves"
+    ],
+    "DP_Trainers_Type_TR_DOUBLETEAM_01": [
+      "Dupla"
+    ],
+    "DP_Trainers_Type_TR_PRINCE_01": [
+      "Garoto Rico"
+    ],
+    "DP_Trainers_Type_TR_PRINCESS_01": [
+      "Senhorita"
+    ],
+    "DP_Trainers_Type_TR_GENTLE_01": [
+      "Cavalheiro"
+    ],
+    "DP_Trainers_Type_TR_MADAM_01": [
+      "Socialite"
+    ],
+    "DP_Trainers_Type_TR_SISTER_01": [
+      "Beldade"
+    ],
+    "DP_Trainers_Type_TR_COLLECTOR_01": [
+      "Colecionador"
+    ],
+    "DP_Trainers_Type_TR_POLICE_01": [
+      "Policial"
+    ],
+    "DP_Trainers_Type_TR_RANGERM_01": [
+      "Ranger Pokémon"
+    ],
+    "DP_Trainers_Type_TR_RANGERW_01": [
+      "Ranger Pokémon"
+    ],
+    "DP_Trainers_Type_TR_SCIENTIST_01": [
+      "Cientista"
+    ],
+    "DP_Trainers_Type_TR_SWIMMERM_01": [
+      "Nadador"
+    ],
+    "DP_Trainers_Type_TR_SWIMMERW_01": [
+      "Nadadora"
+    ],
+    "DP_Trainers_Type_TR_UKIWAB_01": [
+      "Menino de Boia"
+    ],
+    "DP_Trainers_Type_TR_UKIWAG_01": [
+      "Menina de Boia"
+    ],
+    "DP_Trainers_Type_TR_SAILOR_01": [
+      "Marinheiro"
+    ],
+    "DP_Trainers_Type_TR_ISEKI_01": [
+      "Maníaco por Ruínas"
+    ],
+    "DP_Trainers_Type_TR_ESPM_01": [
+      "Médium"
+    ],
+    "DP_Trainers_Type_TR_ESPW_01": [
+      "Médium"
+    ],
+    "DP_Trainers_Type_TR_GAMBLER_01": [
+      "Apostador"
+    ],
+    "DP_Trainers_Type_TR_GUITARIST_01": [
+      "Guitarrista"
+    ],
+    "DP_Trainers_Type_TR_COLDELITEM_01": [
+      "Treinador Ás"
+    ],
+    "DP_Trainers_Type_TR_COLDELITEW_01": [
+      "Treinadora Ás"
+    ],
+    "DP_Trainers_Type_TR_SKIERM_01": [
+      "Esquiador"
+    ],
+    "DP_Trainers_Type_TR_SKIERW_01": [
+      "Esquiadora"
+    ],
+    "DP_Trainers_Type_TR_HEADS_01": [
+      "Valentão"
+    ],
+    "DP_Trainers_Type_TR_PIERROT_01": [
+      "Palhaço"
+    ],
+    "DP_Trainers_Type_TR_WORKER_01": [
+      "Trabalhador"
+    ],
+    "DP_Trainers_Type_TR_SCHOOLB_01": [
+      "Estudante"
+    ],
+    "DP_Trainers_Type_TR_SCHOOLG_01": [
+      "Estudante"
+    ],
+    "DP_Trainers_Type_TR_LEADER1_01": [
+      "Líder de Ginásio"
+    ],
+    "DP_Trainers_Type_TR_RIVAL_01": [
+      "Treinador Pokémon"
+    ],
+    "DP_Trainers_Type_TR_LEADER7_01": [
+      "Líder de Ginásio"
+    ],
+    "DP_Trainers_Type_TR_BIGFOUR1_01": [
+      "Elite dos Quatro"
+    ],
+    "DP_Trainers_Type_TR_BIGFOUR2_01": [
+      "Elite dos Quatro"
+    ],
+    "DP_Trainers_Type_TR_BIGFOUR3_01": [
+      "Elite dos Quatro"
+    ],
+    "DP_Trainers_Type_TR_BIGFOUR4_01": [
+      "Elite dos Quatro"
+    ],
+    "DP_Trainers_Type_TR_CHAMPION_01": [
+      "Campeã"
+    ],
+    "DP_Trainers_Type_TR_FAMILY_01": [
+      "Família do Rancho"
+    ],
+    "DP_Trainers_Type_TR_FARMER_01": [
+      "Fazendeiro"
+    ],
+    "DP_Trainers_Type_TR_GINGALEADER1_01": [
+      "Comandante"
+    ],
+    "DP_Trainers_Type_TR_GINGAM_01": [
+      "Equipe Galáctica"
+    ],
+    "DP_Trainers_Type_TR_LEADER2_01": [
+      "Líder de Ginásio"
+    ],
+    "DP_Trainers_Type_TR_LEADER3_01": [
+      "Líder de Ginásio"
+    ],
+    "DP_Trainers_Type_TR_LEADER4_01": [
+      "Líder de Ginásio"
+    ],
+    "DP_Trainers_Type_TR_LEADER5_01": [
+      "Líder de Ginásio"
+    ],
+    "DP_Trainers_Type_TR_LEADER6_01": [
+      "Líder de Ginásio"
+    ],
+    "DP_Trainers_Type_TR_LEADER8_01": [
+      "Líder de Ginásio"
+    ],
+    "DP_Trainers_Type_TR_PARASOL_01": [
+      "Dama de Sombrinha"
+    ],
+    "DP_Trainers_Type_TR_WAITER_01": [
+      "Garçom"
+    ],
+    "DP_Trainers_Type_TR_INTERVIEW_01": [
+      "Entrevistadores"
+    ],
+    "DP_Trainers_Type_TR_CAMERAMAN_01": [
+      "Cinegrafista"
+    ],
+    "DP_Trainers_Type_TR_REPORTER_01": [
+      "Repórter"
+    ],
+    "DP_Trainers_Type_TR_IDOL_01": [
+      "Ídolo"
+    ],
+    "DP_Trainers_Type_TR_GINGALBOSS_01": [
+      "Chefe da Equipe Galáctica"
+    ],
+    "DP_Trainers_Type_TR_GINGALEADER2_01": [
+      "Comandante"
+    ],
+    "DP_Trainers_Type_TR_GINGALEADER3_01": [
+      "Comandante"
+    ],
+    "DP_Trainers_Type_TR_GINGAW_01": [
+      "Equipe Galáctica"
+    ],
+    "DP_Trainers_Type_TR_BTFIVE1_01": [
+      "Treinadora Pokémon"
+    ],
+    "DP_Trainers_Type_TR_BTFIVE2_01": [
+      "Treinador Pokémon"
+    ],
+    "DP_Trainers_Type_TR_BTFIVE3_01": [
+      "Treinador Pokémon"
+    ],
+    "DP_Trainers_Type_TR_BTFIVE4_01": [
+      "Treinadora Pokémon"
+    ],
+    "DP_Trainers_Type_TR_BTFIVE5_01": [
+      "Treinadora Pokémon"
+    ],
+    "DP_Trainers_Type_TR_HERO_01": [
+      "Treinador Pokémon"
+    ],
+    "DP_Trainers_Type_TR_HEROINE_01": [
+      "Treinadora Pokémon"
+    ],
+    "DP_Trainers_Type_TR_KUROTUGU_01": [
+      "Magnata da Torre"
+    ],
+    "DP_Trainers_Type_TR_BOY_01": [
+      "Treinador Pokémon"
+    ],
+    "DP_Trainers_Type_TR_GIRL_01": [
+      "Treinadora Pokémon"
+    ],
+    "DP_Trainers_Type_TR_MORIMOTO_01": [
+      "GAME FREAK"
+    ],
+    "DP_Trainers_Type_TR_LOVELOVE_98": [
+      "Casal Jovem (Namorado)"
+    ],
+    "DP_Trainers_Type_TR_LOVELOVE_99": [
+      "Casal Jovem (Namorada)"
+    ]
+  },
+  "english_dp_fld_areaname": {
+    "DP_fld_arenames_000": [
+      "Zona Misteriosa"
+    ],
+    "DP_fld_arenames_001": [
+      "GWS"
+    ],
+    "DP_fld_arenames_002": [
+      "Cidade de Jubilife"
+    ],
+    "DP_fld_arenames_003": [
+      "Companhia Pokétch"
+    ],
+    "DP_fld_arenames_004": [
+      "Escola de Treinadores"
+    ],
+    "DP_fld_arenames_005": [
+      "TV Jubilife"
+    ],
+    "DP_fld_arenames_006": [
+      "Cidade de Canalave"
+    ],
+    "DP_fld_arenames_007": [
+      "Museu de Mineração"
+    ],
+    "DP_fld_arenames_008": [
+      "Cidade de Oreburgh"
+    ],
+    "DP_fld_arenames_009": [
+      "Loja de Bicicletas"
+    ],
+    "DP_fld_arenames_010": [
+      "Cidade de Eterna"
+    ],
+    "DP_fld_arenames_011": [
+      "Catedral"
+    ],
+    "DP_fld_arenames_012": [
+      "Salão de Concursos"
+    ],
+    "DP_fld_arenames_013": [
+      "Casa de Poffins"
+    ],
+    "DP_fld_arenames_014": [
+      "Cidade de Hearthome"
+    ],
+    "DP_fld_arenames_015": [
+      "Cidade de Pastoria"
+    ],
+    "DP_fld_arenames_016": [
+      "Loja de Departamentos de Veilstone"
+    ],
+    "DP_fld_arenames_018": [
+      "Cidade de Veilstone"
+    ],
+    "DP_fld_arenames_019": [
+      "Biblioteca de Canalave"
+    ],
+    "DP_fld_arenames_020": [
+      "Mercado de Sunyshore"
+    ],
+    "DP_fld_arenames_021": [
+      "Cidade de Sunyshore"
+    ],
+    "DP_fld_arenames_022": [
+      "Farol da Vista"
+    ],
+    "DP_fld_arenames_023": [
+      "Cidade de Snowpoint"
+    ],
+    "DP_fld_arenames_024": [
+      "Liga Pokémon"
+    ],
+    "DP_fld_arenames_025": [
+      "Área de Luta"
+    ],
+    "DP_fld_arenames_026": [
+      "Mina de Oreburgh"
+    ],
+    "DP_fld_arenames_027": [
+      "Usina Eólica do Vale"
+    ],
+    "DP_fld_arenames_028": [
+      "Floresta de Eterna"
+    ],
+    "DP_fld_arenames_029": [
+      "Siderúrgica Fuego"
+    ],
+    "DP_fld_arenames_030": [
+      "Salão da Origem"
+    ],
+    "DP_fld_arenames_031": [
+      "Pilar de Lança"
+    ],
+    "DP_fld_arenames_032": [
+      "Monte Coronet"
+    ],
+    "DP_fld_arenames_033": [
+      "Grande Pântano"
+    ],
+    "DP_fld_arenames_034": [
+      "Ruínas de Solaceon"
+    ],
+    "DP_fld_arenames_035": [
+      "Caminho da Vitória"
+    ],
+    "DP_fld_arenames_036": [
+      "Parque Ramanas"
+    ],
+    "DP_fld_arenames_037": [
+      "Praça da Amizade"
+    ],
+    "DP_fld_arenames_038": [
+      "Caminho Devastado"
+    ],
+    "DP_fld_arenames_039": [
+      "Prado de Floaroma"
+    ],
+    "DP_fld_arenames_040": [
+      "Portão de Oreburgh"
+    ],
+    "DP_fld_arenames_041": [
+      "Ilha Lua Cheia"
+    ],
+    "DP_fld_arenames_042": [
+      "Montanha Stark"
+    ],
+    "DP_fld_arenames_043": [
+      "Caverna do Retorno"
+    ],
+    "DP_fld_arenames_044": [
+      "Fonte da Despedida"
+    ],
+    "DP_fld_arenames_045": [
+      "Paraíso Florido"
+    ],
+    "DP_fld_arenames_046": [
+      "Templo de Snowpoint"
+    ],
+    "DP_fld_arenames_047": [
+      "Caverna Desgarrada"
+    ],
+    "DP_fld_arenames_048": [
+      "Caverna do Maníaco por Ruínas"
+    ],
+    "DP_fld_arenames_049": [
+      "Túnel do Maníaco"
+    ],
+    "DP_fld_arenames_050": [
+      "Jardim de Troféus"
+    ],
+    "DP_fld_arenames_051": [
+      "Ilha de Ferro"
+    ],
+    "DP_fld_arenames_052": [
+      "Antigo Palacete"
+    ],
+    "DP_fld_arenames_053": [
+      "Sede da Equipe Galáctica"
+    ],
+    "DP_fld_arenames_054": [
+      "Caverna Verity"
+    ],
+    "DP_fld_arenames_055": [
+      "Lago Verity"
+    ],
+    "DP_fld_arenames_056": [
+      "Caverna Valor"
+    ],
+    "DP_fld_arenames_057": [
+      "Lago Valor"
+    ],
+    "DP_fld_arenames_058": [
+      "Caverna Acuity"
+    ],
+    "DP_fld_arenames_059": [
+      "Lago Acuity"
+    ],
+    "DP_fld_arenames_060": [
+      "Ilha Lua Nova"
+    ],
+    "DP_fld_arenames_061": [
+      "Parque de Batalha"
+    ],
+    "DP_fld_arenames_062": [
+      "Torre de Batalha"
+    ],
+    "DP_fld_arenames_063": [
+      "Margem do Lago Verity"
+    ],
+    "DP_fld_arenames_064": [
+      "Margem do Lago Valor"
+    ],
+    "DP_fld_arenames_065": [
+      "Hotel Grande Lago"
+    ],
+    "DP_fld_arenames_066": [
+      "Restaurante"
+    ],
+    "DP_fld_arenames_067": [
+      "Margem do Lago Acuity"
+    ],
+    "DP_fld_arenames_068": [
+      "Caminho da Fonte"
+    ],
+    "DP_fld_arenames_069": [
+      "Rota 201"
+    ],
+    "DP_fld_arenames_070": [
+      "Rota 202"
+    ],
+    "DP_fld_arenames_071": [
+      "Rota 203"
+    ],
+    "DP_fld_arenames_072": [
+      "Rota 204"
+    ],
+    "DP_fld_arenames_073": [
+      "Rota 205"
+    ],
+    "DP_fld_arenames_074": [
+      "Rota 206"
+    ],
+    "DP_fld_arenames_075": [
+      "Rota 207"
+    ],
+    "DP_fld_arenames_076": [
+      "Rota 208"
+    ],
+    "DP_fld_arenames_077": [
+      "Rota 209"
+    ],
+    "DP_fld_arenames_078": [
+      "Rota 210"
+    ],
+    "DP_fld_arenames_079": [
+      "Chalé da Montanha"
+    ],
+    "DP_fld_arenames_080": [
+      "Rota 211"
+    ],
+    "DP_fld_arenames_081": [
+      "Rota 212"
+    ],
+    "DP_fld_arenames_082": [
+      "Mansão Pokémon"
+    ],
+    "DP_fld_arenames_083": [
+      "Rota 213"
+    ],
+    "DP_fld_arenames_085": [
+      "Rota 214"
+    ],
+    "DP_fld_arenames_086": [
+      "Rota 215"
+    ],
+    "DP_fld_arenames_087": [
+      "Rota 216"
+    ],
+    "DP_fld_arenames_088": [
+      "Rota 217"
+    ],
+    "DP_fld_arenames_089": [
+      "Rota 218"
+    ],
+    "DP_fld_arenames_090": [
+      "Rota 219"
+    ],
+    "DP_fld_arenames_091": [
+      "Rota 221"
+    ],
+    "DP_fld_arenames_092": [
+      "Rota 222"
+    ],
+    "DP_fld_arenames_093": [
+      "Rota 224"
+    ],
+    "DP_fld_arenames_094": [
+      "Rota 225"
+    ],
+    "DP_fld_arenames_095": [
+      "Rota 227"
+    ],
+    "DP_fld_arenames_096": [
+      "Rota 228"
+    ],
+    "DP_fld_arenames_097": [
+      "Rota 229"
+    ],
+    "DP_fld_arenames_098": [
+      "Vila Twinleaf"
+    ],
+    "DP_fld_arenames_099": [
+      "Vila Sandgem"
+    ],
+    "DP_fld_arenames_100": [
+      "Floricultura"
+    ],
+    "DP_fld_arenames_101": [
+      "Vila Floaroma"
+    ],
+    "DP_fld_arenames_102": [
+      "Creche Pokémon"
+    ],
+    "DP_fld_arenames_103": [
+      "Vila Solaceon"
+    ],
+    "DP_fld_arenames_104": [
+      "Vila Celestic"
+    ],
+    "DP_fld_arenames_105": [
+      "Área de Sobrevivência"
+    ],
+    "DP_fld_arenames_106": [
+      "Área de Resort"
+    ],
+    "DP_fld_arenames_107": [
+      "Rota 220"
+    ],
+    "DP_fld_arenames_108": [
+      "Rota 223"
+    ],
+    "DP_fld_arenames_109": [
+      "Rota 226"
+    ],
+    "DP_fld_arenames_110": [
+      "Rota 230"
+    ],
+    "DP_fld_arenames_111": [
+      "Caminho Quebra-Mar"
+    ],
+    "DP_fld_arenames_112": [
+      "Ginásio de Oreburgh"
+    ],
+    "DP_fld_arenames_113": [
+      "Ginásio de Eterna"
+    ],
+    "DP_fld_arenames_114": [
+      "Ginásio de Pastoria"
+    ],
+    "DP_fld_arenames_115": [
+      "Ginásio de Veilstone"
+    ],
+    "DP_fld_arenames_116": [
+      "Ginásio de Hearthome"
+    ],
+    "DP_fld_arenames_117": [
+      "Ginásio de Snowpoint"
+    ],
+    "DP_fld_arenames_118": [
+      "Ginásio de Canalave"
+    ],
+    "DP_fld_arenames_119": [
+      "Ginásio de Sunyshore"
+    ],
+    "DP_fld_arenames_226": [
+      "Grande Subsolo"
+    ],
+    "DP_fld_arenames_121": [
+      "a região de Hoenn"
+    ],
+    "DP_fld_arenames_123": [
+      "a região de Kanto"
+    ],
+    "DP_fld_arenames_128": [
+      "uma terra distante"
+    ],
+    "DP_fld_arenames_130": [
+      "a região de Johto"
+    ],
+    "DP_fld_arenames_131": [
+      "um lugar distante"
+    ],
+    "DP_fld_arenames_227": [
+      "a região de Unova"
+    ],
+    "DP_fld_arenames_228": [
+      "a região de Kalos"
+    ],
+    "DP_fld_arenames_229": [
+      "a região de Alola"
+    ],
+    "DP_fld_arenames_230": [
+      "a região de Galar"
+    ],
+    "DP_fld_arenames_231": [
+      "Pokémon GO"
+    ],
+    "DP_fld_arenames_120": [
+      "Riley"
+    ],
+    "DP_fld_arenames_126": [
+      "Casal da Creche"
+    ],
+    "DP_fld_arenames_127": [
+      "Viajante"
+    ],
+    "DP_fld_arenames_232": [
+      "uma Troca em Conexão"
+    ],
+    "DP_fld_arenames_233": [
+      "uma Troca em Conexão"
+    ],
+    "DP_fld_arenames_234": [
+      "a região de Sinnoh"
+    ],
+    "DP_fld_arenames_235": [
+      "——————"
+    ],
+    "DP_fld_arenames_236": [
+      "Pokémon Link"
+    ],
+    "DP_fld_arenames_237": [
+      "Poké Pelago"
+    ],
+    "DP_fld_arenames_238": [
+      "Pokémon HOME"
+    ],
+    "DP_fld_arenames_239": [
+      "um lugar adorável"
+    ],
+    "DP_fld_arenames_240": [
+      "um filme Pokémon"
+    ],
+    "DP_fld_arenames_241": [
+      "um filme Pokémon de 2019"
+    ],
+    "DP_fld_arenames_242": [
+      "um filme Pokémon de 2020"
+    ],
+    "DP_fld_arenames_243": [
+      "um filme Pokémon de 2021"
+    ],
+    "DP_fld_arenames_244": [
+      "um filme Pokémon de 2022"
+    ],
+    "DP_fld_arenames_245": [
+      "um filme Pokémon de 2023"
+    ],
+    "DP_fld_arenames_246": [
+      "um filme Pokémon de 2024"
+    ],
+    "DP_fld_arenames_247": [
+      "o desenho animado Pokémon"
+    ],
+    "DP_fld_arenames_248": [
+      "um Centro Pokémon"
+    ],
+    "DP_fld_arenames_249": [
+      "Centro Pokémon Tohoku"
+    ],
+    "DP_fld_arenames_250": [
+      "um WCS"
+    ],
+    "DP_fld_arenames_251": [
+      "WCS 2019"
+    ],
+    "DP_fld_arenames_252": [
+      "WCS 2020"
+    ],
+    "DP_fld_arenames_253": [
+      "WCS 2021"
+    ],
+    "DP_fld_arenames_254": [
+      "WCS 2022"
+    ],
+    "DP_fld_arenames_255": [
+      "WCS 2023"
+    ],
+    "DP_fld_arenames_256": [
+      "WCS 2024"
+    ],
+    "DP_fld_arenames_257": [
+      "Mundial"
+    ],
+    "DP_fld_arenames_258": [
+      "Mundial de 2019"
+    ],
+    "DP_fld_arenames_259": [
+      "Mundial de 2020"
+    ],
+    "DP_fld_arenames_260": [
+      "Mundial de 2021"
+    ],
+    "DP_fld_arenames_261": [
+      "Mundial de 2022"
+    ],
+    "DP_fld_arenames_262": [
+      "Mundial de 2023"
+    ],
+    "DP_fld_arenames_263": [
+      "Mundial de 2024"
+    ],
+    "DP_fld_arenames_264": [
+      "um VGE"
+    ],
+    "DP_fld_arenames_265": [
+      "VGE 2019"
+    ],
+    "DP_fld_arenames_266": [
+      "VGE 2020"
+    ],
+    "DP_fld_arenames_267": [
+      "VGE 2021"
+    ],
+    "DP_fld_arenames_268": [
+      "VGE 2022"
+    ],
+    "DP_fld_arenames_269": [
+      "VGE 2023"
+    ],
+    "DP_fld_arenames_270": [
+      "VGE 2024"
+    ],
+    "DP_fld_arenames_271": [
+      "um evento Pokémon"
+    ],
+    "DP_fld_arenames_272": [
+      "uma Competição de Batalha"
+    ],
+    "DP_fld_arenames_273": [
+      "um evento de jogo"
+    ],
+    "DP_fld_arenames_274": [
+      "o Pokémon Daisuki Club"
+    ],
+    "DP_fld_arenames_275": [
+      "um programa de TV Pokémon"
+    ],
+    "DP_fld_arenames_276": [
+      "um concerto"
+    ],
+    "DP_fld_arenames_277": [
+      "um presente online"
+    ],
+    "DP_fld_arenames_278": [
+      "o PGL"
+    ],
+    "DP_fld_arenames_279": [
+      "um evento Pokémon de 2019"
+    ],
+    "DP_fld_arenames_280": [
+      "um evento Pokémon de 2020"
+    ],
+    "DP_fld_arenames_281": [
+      "um evento Pokémon de 2021"
+    ],
+    "DP_fld_arenames_282": [
+      "um evento Pokémon de 2022"
+    ],
+    "DP_fld_arenames_283": [
+      "um evento Pokémon de 2023"
+    ],
+    "DP_fld_arenames_284": [
+      "um evento Pokémon de 2024"
+    ],
+    "DP_fld_arenames_285": [
+      "um evento Pokémon"
+    ],
+    "DP_fld_arenames_286": [
+      "um evento Pokémon de 2019"
+    ],
+    "DP_fld_arenames_287": [
+      "um evento Pokémon de 2020"
+    ],
+    "DP_fld_arenames_288": [
+      "um evento Pokémon de 2021"
+    ],
+    "DP_fld_arenames_289": [
+      "um evento Pokémon de 2022"
+    ],
+    "DP_fld_arenames_290": [
+      "um evento Pokémon de 2023"
+    ],
+    "DP_fld_arenames_291": [
+      "um evento Pokémon de 2024"
+    ],
+    "DP_fld_arenames_292": [
+      "PokéPark"
+    ],
+    "DP_fld_arenames_293": [
+      "PokéPark 2019"
+    ],
+    "DP_fld_arenames_294": [
+      "PokéPark 2020"
+    ],
+    "DP_fld_arenames_295": [
+      "PokéPark 2021"
+    ],
+    "DP_fld_arenames_296": [
+      "PokéPark 2022"
+    ],
+    "DP_fld_arenames_297": [
+      "PokéPark 2023"
+    ],
+    "DP_fld_arenames_298": [
+      "PokéPark 2024"
+    ],
+    "DP_fld_arenames_299": [
+      "um local de evento"
+    ],
+    "DP_fld_arenames_300": [
+      "GAME FREAK"
+    ],
+    "DP_fld_arenames_301": [
+      "um estádio"
+    ],
+    "DP_fld_arenames_302": [
+      "um evento VGC"
+    ],
+    "DP_fld_arenames_303": [
+      "o VGC 2019"
+    ],
+    "DP_fld_arenames_304": [
+      "o VGC 2020"
+    ],
+    "DP_fld_arenames_305": [
+      "o VGC 2021"
+    ],
+    "DP_fld_arenames_306": [
+      "o VGC 2022"
+    ],
+    "DP_fld_arenames_307": [
+      "o VGC 2023"
+    ],
+    "DP_fld_arenames_308": [
+      "o VGC 2024"
+    ],
+    "DP_fld_arenames_309": [
+      "um jogo de Virtual Console"
+    ],
+    "DP_fld_arenames_310": [
+      "Pokémon Bank"
+    ],
+    "DP_fld_arenames_311": [
+      "uma loja Pokémon"
+    ],
+    "DP_fld_arenames_312": [
+      "uma versão demo"
+    ],
+    "DP_fld_arenames_313": [
+      "a Poké Bola Plus"
+    ],
+    "DP_fld_arenames_314": [
+      "um estranho"
+    ],
+    "DP_fld_arenames_315": [
+      "um funcionário da Creche"
+    ],
+    "DP_fld_arenames_316": [
+      "um caçador de tesouros"
+    ],
+    "DP_fld_arenames_317": [
+      "uma visitante idosa das fontes termais"
+    ]
+  },
+  "english_dp_fld_areaname_display": {
+    "DP_fld_areaname_display_000": [
+      "Zona Misteriosa"
+    ],
+    "DP_fld_areaname_display_001": [
+      "GWS"
+    ],
+    "DP_fld_areaname_display_002": [
+      "Cidade de Jubilife"
+    ],
+    "DP_fld_areaname_display_006": [
+      "Cidade de Canalave"
+    ],
+    "DP_fld_areaname_display_008": [
+      "Cidade de Oreburgh"
+    ],
+    "DP_fld_areaname_display_010": [
+      "Cidade de Eterna"
+    ],
+    "DP_fld_areaname_display_014": [
+      "Cidade de Hearthome"
+    ],
+    "DP_fld_areaname_display_015": [
+      "Cidade de Pastoria"
+    ],
+    "DP_fld_areaname_display_017": [
+      "Cidade de Veilstone"
+    ],
+    "DP_fld_areaname_display_020": [
+      "Cidade de Sunyshore"
+    ],
+    "DP_fld_areaname_display_022": [
+      "Cidade de Snowpoint"
+    ],
+    "DP_fld_areaname_display_023": [
+      "Liga Pokémon"
+    ],
+    "DP_fld_areaname_display_024": [
+      "Área de Luta"
+    ],
+    "DP_fld_areaname_display_025": [
+      "Mina de Oreburgh"
+    ],
+    "DP_fld_areaname_display_026": [
+      "Usina Eólica do Vale"
+    ],
+    "DP_fld_areaname_display_027": [
+      "Floresta de Eterna"
+    ],
+    "DP_fld_areaname_display_028": [
+      "Siderúrgica Fuego"
+    ],
+    "DP_fld_areaname_display_029": [
+      "Salão da Origem"
+    ],
+    "DP_fld_areaname_display_030": [
+      "Pilar de Lança"
+    ],
+    "DP_fld_areaname_display_031": [
+      "Monte Coronet"
+    ],
+    "DP_fld_areaname_display_032": [
+      "Grande Pântano"
+    ],
+    "DP_fld_areaname_display_033": [
+      "Ruínas de Solaceon"
+    ],
+    "DP_fld_areaname_display_034": [
+      "Caminho da Vitória"
+    ],
+    "DP_fld_areaname_display_035": [
+      "Parque Ramanas"
+    ],
+    "DP_fld_areaname_display_036": [
+      "Praça da Amizade"
+    ],
+    "DP_fld_areaname_display_037": [
+      "Caminho Devastado"
+    ],
+    "DP_fld_areaname_display_038": [
+      "Prado de Floaroma"
+    ],
+    "DP_fld_areaname_display_039": [
+      "Portão de Oreburgh"
+    ],
+    "DP_fld_areaname_display_040": [
+      "Ilha Lua Cheia"
+    ],
+    "DP_fld_areaname_display_041": [
+      "Montanha Stark"
+    ],
+    "DP_fld_areaname_display_042": [
+      "Caverna do Retorno"
+    ],
+    "DP_fld_areaname_display_043": [
+      "Fonte da Despedida"
+    ],
+    "DP_fld_areaname_display_044": [
+      "Paraíso Florido"
+    ],
+    "DP_fld_areaname_display_045": [
+      "Templo de Snowpoint"
+    ],
+    "DP_fld_areaname_display_046": [
+      "Caverna Desgarrada"
+    ],
+    "DP_fld_areaname_display_047": [
+      "Caverna do Maníaco por Ruínas"
+    ],
+    "DP_fld_areaname_display_048": [
+      "Túnel do Maníaco"
+    ],
+    "DP_fld_areaname_display_049": [
+      "Jardim de Troféus"
+    ],
+    "DP_fld_areaname_display_050": [
+      "Ilha de Ferro"
+    ],
+    "DP_fld_areaname_display_051": [
+      "Antigo Palacete"
+    ],
+    "DP_fld_areaname_display_052": [
+      "Sede da Equipe Galáctica"
+    ],
+    "DP_fld_areaname_display_053": [
+      "Caverna Verity"
+    ],
+    "DP_fld_areaname_display_054": [
+      "Lago Verity"
+    ],
+    "DP_fld_areaname_display_055": [
+      "Caverna Valor"
+    ],
+    "DP_fld_areaname_display_056": [
+      "Lago Valor"
+    ],
+    "DP_fld_areaname_display_057": [
+      "Caverna Acuity"
+    ],
+    "DP_fld_areaname_display_058": [
+      "Lago Acuity"
+    ],
+    "DP_fld_areaname_display_059": [
+      "Ilha Lua Nova"
+    ],
+    "DP_fld_areaname_display_060": [
+      "Parque de Batalha"
+    ],
+    "DP_fld_areaname_display_062": [
+      "Margem do Lago Verity"
+    ],
+    "DP_fld_areaname_display_063": [
+      "Margem do Lago Valor"
+    ],
+    "DP_fld_areaname_display_066": [
+      "Margem do Lago Acuity"
+    ],
+    "DP_fld_areaname_display_067": [
+      "Caminho da Fonte"
+    ],
+    "DP_fld_areaname_display_068": [
+      "Rota 201"
+    ],
+    "DP_fld_areaname_display_069": [
+      "Rota 202"
+    ],
+    "DP_fld_areaname_display_070": [
+      "Rota 203"
+    ],
+    "DP_fld_areaname_display_071": [
+      "Rota 204"
+    ],
+    "DP_fld_areaname_display_072": [
+      "Rota 205"
+    ],
+    "DP_fld_areaname_display_073": [
+      "Rota 206"
+    ],
+    "DP_fld_areaname_display_074": [
+      "Rota 207"
+    ],
+    "DP_fld_areaname_display_075": [
+      "Rota 208"
+    ],
+    "DP_fld_areaname_display_076": [
+      "Rota 209"
+    ],
+    "DP_fld_areaname_display_077": [
+      "Rota 210"
+    ],
+    "DP_fld_areaname_display_079": [
+      "Rota 211"
+    ],
+    "DP_fld_areaname_display_080": [
+      "Rota 212"
+    ],
+    "DP_fld_areaname_display_082": [
+      "Rota 213"
+    ],
+    "DP_fld_areaname_display_084": [
+      "Rota 214"
+    ],
+    "DP_fld_areaname_display_085": [
+      "Rota 215"
+    ],
+    "DP_fld_areaname_display_086": [
+      "Rota 216"
+    ],
+    "DP_fld_areaname_display_087": [
+      "Rota 217"
+    ],
+    "DP_fld_areaname_display_088": [
+      "Rota 218"
+    ],
+    "DP_fld_areaname_display_089": [
+      "Rota 219"
+    ],
+    "DP_fld_areaname_display_090": [
+      "Rota 221"
+    ],
+    "DP_fld_areaname_display_091": [
+      "Rota 222"
+    ],
+    "DP_fld_areaname_display_092": [
+      "Rota 224"
+    ],
+    "DP_fld_areaname_display_093": [
+      "Rota 225"
+    ],
+    "DP_fld_areaname_display_094": [
+      "Rota 227"
+    ],
+    "DP_fld_areaname_display_095": [
+      "Rota 228"
+    ],
+    "DP_fld_areaname_display_096": [
+      "Rota 229"
+    ],
+    "DP_fld_areaname_display_097": [
+      "Vila Twinleaf"
+    ],
+    "DP_fld_areaname_display_098": [
+      "Vila Sandgem"
+    ],
+    "DP_fld_areaname_display_100": [
+      "Vila Floaroma"
+    ],
+    "DP_fld_areaname_display_102": [
+      "Vila Solaceon"
+    ],
+    "DP_fld_areaname_display_103": [
+      "Vila Celestic"
+    ],
+    "DP_fld_areaname_display_104": [
+      "Área de Sobrevivência"
+    ],
+    "DP_fld_areaname_display_105": [
+      "Área de Resort"
+    ],
+    "DP_fld_areaname_display_106": [
+      "Rota 220"
+    ],
+    "DP_fld_areaname_display_107": [
+      "Rota 223"
+    ],
+    "DP_fld_areaname_display_108": [
+      "Rota 226"
+    ],
+    "DP_fld_areaname_display_109": [
+      "Rota 230"
+    ],
+    "DP_fld_areaname_display_110": [
+      "Caminho Quebra-Mar"
+    ],
+    "DP_fld_areaname_display_119": [
+      "Grande Subsolo"
+    ],
+    "DP_fld_areaname_display_120": [
+      "Zona Oeste"
+    ],
+    "DP_fld_areaname_display_121": [
+      "Zona Leste"
+    ],
+    "DP_fld_areaname_display_122": [
+      "Zona Sudoeste"
+    ],
+    "DP_fld_areaname_display_123": [
+      "Zona Central"
+    ],
+    "DP_fld_areaname_display_124": [
+      "Zona Noroeste"
+    ],
+    "DP_fld_areaname_display_125": [
+      "Zona Sudeste"
+    ],
+    "DP_fld_areaname_display_126": [
+      "Zona Nordeste"
+    ],
+    "DP_fld_areaname_display_127": [
+      "Ponto de Referência"
+    ],
+    "DP_fld_areaname_display_128": [
+      "Caverna Simples"
+    ],
+    "DP_fld_areaname_display_129": [
+      "Caverna Espaçosa"
+    ],
+    "DP_fld_areaname_display_130": [
+      "Caverna de Grama Alta"
+    ],
+    "DP_fld_areaname_display_131": [
+      "Caverna Campestre"
+    ],
+    "DP_fld_areaname_display_132": [
+      "Caverna Aquática"
+    ],
+    "DP_fld_areaname_display_133": [
+      "Caverna da Nascente"
+    ],
+    "DP_fld_areaname_display_134": [
+      "Caverna Empoeirada"
+    ],
+    "DP_fld_areaname_display_135": [
+      "Caverna Rochosa"
+    ],
+    "DP_fld_areaname_display_136": [
+      "Caverna Flamejante"
+    ],
+    "DP_fld_areaname_display_137": [
+      "Caverna Vulcânica"
+    ],
+    "DP_fld_areaname_display_138": [
+      "Caverna Lamacenta"
+    ],
+    "DP_fld_areaname_display_139": [
+      "Caverna Pantanosa"
+    ],
+    "DP_fld_areaname_display_140": [
+      "Caverna Cintilante"
+    ],
+    "DP_fld_areaname_display_141": [
+      "Caverna Deslumbrante"
+    ],
+    "DP_fld_areaname_display_142": [
+      "Caverna Nevada"
+    ],
+    "DP_fld_areaname_display_143": [
+      "Caverna da Nevasca"
+    ],
+    "DP_fld_areaname_display_144": [
+      "Caverna Gélida"
+    ],
+    "DP_fld_areaname_display_145": [
+      "Caverna Congelada"
+    ],
+    "DP_fld_areaname_display_146": [
+      "Caverna Ribeirinha"
+    ],
+    "DP_fld_areaname_display_147": [
+      "Caverna da Areia Escaldante"
+    ],
+    "DP_fld_areaname_display_148": [
+      "Gruta das Águas Calmas"
+    ],
+    "DP_fld_areaname_display_149": [
+      "Gruta Ensolarada"
+    ],
+    "DP_fld_areaname_display_150": [
+      "Gruta do Grande Penhasco"
+    ],
+    "DP_fld_areaname_display_151": [
+      "Gruta do Brilho Estelar"
+    ],
+    "DP_fld_areaname_display_152": [
+      "Gruta Glacial"
+    ],
+    "DP_fld_areaname_display_153": [
+      "Gruta do Brejo"
+    ],
+    "DP_fld_areaname_display_154": [
+      "Gruta Typhlo"
+    ],
+    "DP_fld_areaname_display_155": [
+      "Entrada"
+    ],
+    "DP_fld_areaname_display_156": [
+      "Sala de Kanto"
+    ],
+    "DP_fld_areaname_display_157": [
+      "Sala de Johto"
+    ],
+    "DP_fld_areaname_display_158": [
+      "Sala da Alma"
+    ],
+    "DP_fld_areaname_display_159": [
+      "Sala do Arco-Íris"
+    ],
+    "DP_fld_areaname_display_160": [
+      "Sala da Rajada"
+    ],
+    "DP_fld_areaname_display_161": [
+      "Sala Oceânica"
+    ],
+    "DP_fld_areaname_display_162": [
+      "Sala Tectônica"
+    ],
+    "DP_fld_areaname_display_163": [
+      "Sala Estratosférica"
+    ],
+    "DP_fld_areaname_display_164": [
+      "Sala do Genoma"
+    ],
+    "DP_fld_areaname_display_165": [
+      "Sala da Descoberta"
+    ],
+    "DP_fld_areaname_display_166": [
+      "Sala da Distorção"
+    ],
+    "DP_fld_areaname_display_167": [
+      "Espaço Puro"
+    ],
+    "DP_fld_areaname_display_168": [
+      "Espaço Estranho"
+    ],
+    "DP_fld_areaname_display_169": [
+      "Base Secreta"
+    ]
+  },
+  "english_dp_fld_areaname_indirect": {
+    "DP_fld_arenames_000": [
+      "em uma zona misteriosa"
+    ],
+    "DP_fld_arenames_001": [
+      "na GWS"
+    ],
+    "DP_fld_arenames_002": [
+      "na Cidade de Jubilife"
+    ],
+    "DP_fld_arenames_003": [
+      "na Companhia Pokétch"
+    ],
+    "DP_fld_arenames_004": [
+      "na Escola de Treinadores"
+    ],
+    "DP_fld_arenames_005": [
+      "na TV Jubilife"
+    ],
+    "DP_fld_arenames_006": [
+      "na Cidade de Canalave"
+    ],
+    "DP_fld_arenames_007": [
+      "no Museu de Mineração"
+    ],
+    "DP_fld_arenames_008": [
+      "na Cidade de Oreburgh"
+    ],
+    "DP_fld_arenames_009": [
+      "na Loja de Bicicletas"
+    ],
+    "DP_fld_arenames_010": [
+      "na Cidade de Eterna"
+    ],
+    "DP_fld_arenames_011": [
+      "na Catedral"
+    ],
+    "DP_fld_arenames_012": [
+      "no Salão de Concursos"
+    ],
+    "DP_fld_arenames_013": [
+      "na Casa de Poffins"
+    ],
+    "DP_fld_arenames_014": [
+      "na Cidade de Hearthome"
+    ],
+    "DP_fld_arenames_015": [
+      "na Cidade de Pastoria"
+    ],
+    "DP_fld_arenames_016": [
+      "na Loja de Departamentos de Veilstone"
+    ],
+    "DP_fld_arenames_018": [
+      "na Cidade de Veilstone"
+    ],
+    "DP_fld_arenames_019": [
+      "na Biblioteca de Canalave"
+    ],
+    "DP_fld_arenames_020": [
+      "no Mercado de Sunyshore"
+    ],
+    "DP_fld_arenames_021": [
+      "na Cidade de Sunyshore"
+    ],
+    "DP_fld_arenames_022": [
+      "no Farol da Vista"
+    ],
+    "DP_fld_arenames_023": [
+      "na Cidade de Snowpoint"
+    ],
+    "DP_fld_arenames_024": [
+      "na Liga Pokémon"
+    ],
+    "DP_fld_arenames_025": [
+      "na Área de Luta"
+    ],
+    "DP_fld_arenames_026": [
+      "na Mina de Oreburgh"
+    ],
+    "DP_fld_arenames_027": [
+      "na Usina Eólica do Vale"
+    ],
+    "DP_fld_arenames_028": [
+      "na Floresta de Eterna"
+    ],
+    "DP_fld_arenames_029": [
+      "na Siderúrgica Fuego"
+    ],
+    "DP_fld_arenames_030": [
+      "no Salão da Origem"
+    ],
+    "DP_fld_arenames_031": [
+      "no Pilar de Lança"
+    ],
+    "DP_fld_arenames_032": [
+      "no Monte Coronet"
+    ],
+    "DP_fld_arenames_033": [
+      "no Grande Pântano"
+    ],
+    "DP_fld_arenames_034": [
+      "nas Ruínas de Solaceon"
+    ],
+    "DP_fld_arenames_035": [
+      "no Caminho da Vitória"
+    ],
+    "DP_fld_arenames_036": [
+      "no Parque Ramanas"
+    ],
+    "DP_fld_arenames_037": [
+      "na Praça da Amizade"
+    ],
+    "DP_fld_arenames_038": [
+      "no Caminho Devastado"
+    ],
+    "DP_fld_arenames_039": [
+      "no Prado de Floaroma"
+    ],
+    "DP_fld_arenames_040": [
+      "no Portão de Oreburgh"
+    ],
+    "DP_fld_arenames_041": [
+      "na Ilha Lua Cheia"
+    ],
+    "DP_fld_arenames_042": [
+      "na Montanha Stark"
+    ],
+    "DP_fld_arenames_043": [
+      "na Caverna do Retorno"
+    ],
+    "DP_fld_arenames_044": [
+      "na Fonte da Despedida"
+    ],
+    "DP_fld_arenames_045": [
+      "no Paraíso Florido"
+    ],
+    "DP_fld_arenames_046": [
+      "no Templo de Snowpoint"
+    ],
+    "DP_fld_arenames_047": [
+      "na Caverna Desgarrada"
+    ],
+    "DP_fld_arenames_048": [
+      "na Caverna do Maníaco por Ruínas"
+    ],
+    "DP_fld_arenames_049": [
+      "no Túnel do Maníaco"
+    ],
+    "DP_fld_arenames_050": [
+      "no Jardim de Troféus"
+    ],
+    "DP_fld_arenames_051": [
+      "na Ilha de Ferro"
+    ],
+    "DP_fld_arenames_052": [
+      "no Antigo Palacete"
+    ],
+    "DP_fld_arenames_053": [
+      "na Sede da Equipe Galáctica"
+    ],
+    "DP_fld_arenames_054": [
+      "na Caverna Verity"
+    ],
+    "DP_fld_arenames_055": [
+      "no Lago Verity"
+    ],
+    "DP_fld_arenames_056": [
+      "na Caverna Valor"
+    ],
+    "DP_fld_arenames_057": [
+      "no Lago Valor"
+    ],
+    "DP_fld_arenames_058": [
+      "na Caverna Acuity"
+    ],
+    "DP_fld_arenames_059": [
+      "no Lago Acuity"
+    ],
+    "DP_fld_arenames_060": [
+      "na Ilha Lua Nova"
+    ],
+    "DP_fld_arenames_061": [
+      "no Parque de Batalha"
+    ],
+    "DP_fld_arenames_062": [
+      "na Torre de Batalha"
+    ],
+    "DP_fld_arenames_063": [
+      "na Margem do Lago Verity"
+    ],
+    "DP_fld_arenames_064": [
+      "na Margem do Lago Valor"
+    ],
+    "DP_fld_arenames_065": [
+      "no Hotel Grande Lago"
+    ],
+    "DP_fld_arenames_066": [
+      "no Restaurante Sete Estrelas"
+    ],
+    "DP_fld_arenames_067": [
+      "na Margem do Lago Acuity"
+    ],
+    "DP_fld_arenames_068": [
+      "no Caminho da Fonte"
+    ],
+    "DP_fld_arenames_069": [
+      "na Rota 201"
+    ],
+    "DP_fld_arenames_070": [
+      "na Rota 202"
+    ],
+    "DP_fld_arenames_071": [
+      "na Rota 203"
+    ],
+    "DP_fld_arenames_072": [
+      "na Rota 204"
+    ],
+    "DP_fld_arenames_073": [
+      "na Rota 205"
+    ],
+    "DP_fld_arenames_074": [
+      "na Rota 206"
+    ],
+    "DP_fld_arenames_075": [
+      "na Rota 207"
+    ],
+    "DP_fld_arenames_076": [
+      "na Rota 208"
+    ],
+    "DP_fld_arenames_077": [
+      "na Rota 209"
+    ],
+    "DP_fld_arenames_078": [
+      "na Rota 210"
+    ],
+    "DP_fld_arenames_079": [
+      "no Chalé da Montanha"
+    ],
+    "DP_fld_arenames_080": [
+      "na Rota 211"
+    ],
+    "DP_fld_arenames_081": [
+      "na Rota 212"
+    ],
+    "DP_fld_arenames_082": [
+      "na Mansão Pokémon"
+    ],
+    "DP_fld_arenames_083": [
+      "na Rota 213"
+    ],
+    "DP_fld_arenames_085": [
+      "na Rota 214"
+    ],
+    "DP_fld_arenames_086": [
+      "na Rota 215"
+    ],
+    "DP_fld_arenames_087": [
+      "na Rota 216"
+    ],
+    "DP_fld_arenames_088": [
+      "na Rota 217"
+    ],
+    "DP_fld_arenames_089": [
+      "na Rota 218"
+    ],
+    "DP_fld_arenames_090": [
+      "na Rota 219"
+    ],
+    "DP_fld_arenames_091": [
+      "na Rota 221"
+    ],
+    "DP_fld_arenames_092": [
+      "na Rota 222"
+    ],
+    "DP_fld_arenames_093": [
+      "na Rota 224"
+    ],
+    "DP_fld_arenames_094": [
+      "na Rota 225"
+    ],
+    "DP_fld_arenames_095": [
+      "na Rota 227"
+    ],
+    "DP_fld_arenames_096": [
+      "na Rota 228"
+    ],
+    "DP_fld_arenames_097": [
+      "na Rota 229"
+    ],
+    "DP_fld_arenames_098": [
+      "na Vila Twinleaf"
+    ],
+    "DP_fld_arenames_099": [
+      "na Vila Sandgem"
+    ],
+    "DP_fld_arenames_100": [
+      "na Floricultura"
+    ],
+    "DP_fld_arenames_101": [
+      "na Vila Floaroma"
+    ],
+    "DP_fld_arenames_102": [
+      "na Creche Pokémon"
+    ],
+    "DP_fld_arenames_103": [
+      "na Vila Solaceon"
+    ],
+    "DP_fld_arenames_104": [
+      "na Vila Celestic"
+    ],
+    "DP_fld_arenames_105": [
+      "na Área de Sobrevivência"
+    ],
+    "DP_fld_arenames_106": [
+      "na Área de Resort"
+    ],
+    "DP_fld_arenames_107": [
+      "na Rota 220"
+    ],
+    "DP_fld_arenames_108": [
+      "na Rota 223"
+    ],
+    "DP_fld_arenames_109": [
+      "na Rota 226"
+    ],
+    "DP_fld_arenames_110": [
+      "na Rota 230"
+    ],
+    "DP_fld_arenames_111": [
+      "no Caminho Quebra-Mar"
+    ],
+    "DP_fld_arenames_112": [
+      "no Ginásio de Oreburgh"
+    ],
+    "DP_fld_arenames_113": [
+      "no Ginásio de Eterna"
+    ],
+    "DP_fld_arenames_114": [
+      "no Ginásio de Pastoria"
+    ],
+    "DP_fld_arenames_115": [
+      "no Ginásio de Veilstone"
+    ],
+    "DP_fld_arenames_116": [
+      "no Ginásio de Hearthome"
+    ],
+    "DP_fld_arenames_117": [
+      "no Ginásio de Snowpoint"
+    ],
+    "DP_fld_arenames_118": [
+      "no Ginásio de Canalave"
+    ],
+    "DP_fld_arenames_119": [
+      "no Ginásio de Sunyshore"
+    ],
+    "DP_fld_arenames_226": [
+      "no Grande Subsolo"
+    ],
+    "DP_fld_arenames_121": [
+      "na região de Hoenn"
+    ],
+    "DP_fld_arenames_123": [
+      "na região de Kanto"
+    ],
+    "DP_fld_arenames_128": [
+      "em uma terra distante"
+    ],
+    "DP_fld_arenames_130": [
+      "na região de Johto"
+    ],
+    "DP_fld_arenames_131": [
+      "em um lugar distante"
+    ],
+    "DP_fld_arenames_227": [
+      "na região de Unova"
+    ],
+    "DP_fld_arenames_228": [
+      "na região de Kalos"
+    ],
+    "DP_fld_arenames_229": [
+      "na região de Alola"
+    ],
+    "DP_fld_arenames_230": [
+      "na região de Galar"
+    ],
+    "DP_fld_arenames_231": [
+      "no Pokémon GO"
+    ],
+    "DP_fld_arenames_120": [
+      "Riley"
+    ],
+    "DP_fld_arenames_126": [
+      "o Casal da Creche"
+    ],
+    "DP_fld_arenames_127": [
+      "o Viajante"
+    ],
+    "DP_fld_arenames_232": [
+      "via Troca em Conexão"
+    ],
+    "DP_fld_arenames_233": [
+      "via Troca em Conexão"
+    ],
+    "DP_fld_arenames_234": [
+      "na região de Sinnoh"
+    ],
+    "DP_fld_arenames_235": [
+      "——————"
+    ],
+    "DP_fld_arenames_236": [
+      "Pokémon Link"
+    ],
+    "DP_fld_arenames_237": [
+      "Poké Pelago"
+    ],
+    "DP_fld_arenames_238": [
+      "Pokémon HOME"
+    ],
+    "DP_fld_arenames_239": [
+      "um lugar adorável"
+    ],
+    "DP_fld_arenames_240": [
+      "um filme Pokémon"
+    ],
+    "DP_fld_arenames_241": [
+      "um filme Pokémon de 2019"
+    ],
+    "DP_fld_arenames_242": [
+      "um filme Pokémon de 2020"
+    ],
+    "DP_fld_arenames_243": [
+      "um filme Pokémon de 2021"
+    ],
+    "DP_fld_arenames_244": [
+      "um filme Pokémon de 2022"
+    ],
+    "DP_fld_arenames_245": [
+      "um filme Pokémon de 2023"
+    ],
+    "DP_fld_arenames_246": [
+      "um filme Pokémon de 2024"
+    ],
+    "DP_fld_arenames_247": [
+      "o desenho animado Pokémon"
+    ],
+    "DP_fld_arenames_248": [
+      "um Centro Pokémon"
+    ],
+    "DP_fld_arenames_249": [
+      "Centro Pokémon Tohoku"
+    ],
+    "DP_fld_arenames_250": [
+      "um WCS"
+    ],
+    "DP_fld_arenames_251": [
+      "WCS 2019"
+    ],
+    "DP_fld_arenames_252": [
+      "WCS 2020"
+    ],
+    "DP_fld_arenames_253": [
+      "WCS 2021"
+    ],
+    "DP_fld_arenames_254": [
+      "WCS 2022"
+    ],
+    "DP_fld_arenames_255": [
+      "WCS 2023"
+    ],
+    "DP_fld_arenames_256": [
+      "WCS 2024"
+    ],
+    "DP_fld_arenames_257": [
+      "Mundial"
+    ],
+    "DP_fld_arenames_258": [
+      "Mundial de 2019"
+    ],
+    "DP_fld_arenames_259": [
+      "Mundial de 2020"
+    ],
+    "DP_fld_arenames_260": [
+      "Mundial de 2021"
+    ],
+    "DP_fld_arenames_261": [
+      "Mundial de 2022"
+    ],
+    "DP_fld_arenames_262": [
+      "Mundial de 2023"
+    ],
+    "DP_fld_arenames_263": [
+      "Mundial de 2024"
+    ],
+    "DP_fld_arenames_264": [
+      "um VGE"
+    ],
+    "DP_fld_arenames_265": [
+      "VGE 2019"
+    ],
+    "DP_fld_arenames_266": [
+      "VGE 2020"
+    ],
+    "DP_fld_arenames_267": [
+      "VGE 2021"
+    ],
+    "DP_fld_arenames_268": [
+      "VGE 2022"
+    ],
+    "DP_fld_arenames_269": [
+      "VGE 2023"
+    ],
+    "DP_fld_arenames_270": [
+      "VGE 2024"
+    ],
+    "DP_fld_arenames_271": [
+      "um evento Pokémon"
+    ],
+    "DP_fld_arenames_272": [
+      "uma Competição de Batalha"
+    ],
+    "DP_fld_arenames_273": [
+      "um evento de jogo"
+    ],
+    "DP_fld_arenames_274": [
+      "o Pokémon Daisuki Club"
+    ],
+    "DP_fld_arenames_275": [
+      "um programa de TV Pokémon"
+    ],
+    "DP_fld_arenames_276": [
+      "um concerto"
+    ],
+    "DP_fld_arenames_277": [
+      "um presente online"
+    ],
+    "DP_fld_arenames_278": [
+      "o PGL"
+    ],
+    "DP_fld_arenames_279": [
+      "um evento Pokémon de 2019"
+    ],
+    "DP_fld_arenames_280": [
+      "um evento Pokémon de 2020"
+    ],
+    "DP_fld_arenames_281": [
+      "um evento Pokémon de 2021"
+    ],
+    "DP_fld_arenames_282": [
+      "um evento Pokémon de 2022"
+    ],
+    "DP_fld_arenames_283": [
+      "um evento Pokémon de 2023"
+    ],
+    "DP_fld_arenames_284": [
+      "um evento Pokémon de 2024"
+    ],
+    "DP_fld_arenames_285": [
+      "um evento Pokémon"
+    ],
+    "DP_fld_arenames_286": [
+      "um evento Pokémon de 2019"
+    ],
+    "DP_fld_arenames_287": [
+      "um evento Pokémon de 2020"
+    ],
+    "DP_fld_arenames_288": [
+      "um evento Pokémon de 2021"
+    ],
+    "DP_fld_arenames_289": [
+      "um evento Pokémon de 2022"
+    ],
+    "DP_fld_arenames_290": [
+      "um evento Pokémon de 2023"
+    ],
+    "DP_fld_arenames_291": [
+      "um evento Pokémon de 2024"
+    ],
+    "DP_fld_arenames_292": [
+      "PokéPark"
+    ],
+    "DP_fld_arenames_293": [
+      "PokéPark 2019"
+    ],
+    "DP_fld_arenames_294": [
+      "PokéPark 2020"
+    ],
+    "DP_fld_arenames_295": [
+      "PokéPark 2021"
+    ],
+    "DP_fld_arenames_296": [
+      "PokéPark 2022"
+    ],
+    "DP_fld_arenames_297": [
+      "PokéPark 2023"
+    ],
+    "DP_fld_arenames_298": [
+      "PokéPark 2024"
+    ],
+    "DP_fld_arenames_299": [
+      "um local de evento"
+    ],
+    "DP_fld_arenames_300": [
+      "GAME FREAK"
+    ],
+    "DP_fld_arenames_301": [
+      "um estádio"
+    ],
+    "DP_fld_arenames_302": [
+      "um evento VGC"
+    ],
+    "DP_fld_arenames_303": [
+      "o VGC 2019"
+    ],
+    "DP_fld_arenames_304": [
+      "o VGC 2020"
+    ],
+    "DP_fld_arenames_305": [
+      "o VGC 2021"
+    ],
+    "DP_fld_arenames_306": [
+      "o VGC 2022"
+    ],
+    "DP_fld_arenames_307": [
+      "o VGC 2023"
+    ],
+    "DP_fld_arenames_308": [
+      "o VGC 2024"
+    ],
+    "DP_fld_arenames_309": [
+      "um jogo de Virtual Console"
+    ],
+    "DP_fld_arenames_310": [
+      "Pokémon Bank"
+    ],
+    "DP_fld_arenames_311": [
+      "uma loja Pokémon"
+    ],
+    "DP_fld_arenames_312": [
+      "uma versão demo"
+    ],
+    "DP_fld_arenames_313": [
+      "a Poké Bola Plus"
+    ],
+    "DP_fld_arenames_314": [
+      "um estranho"
+    ],
+    "DP_fld_arenames_315": [
+      "um funcionário da Creche"
+    ],
+    "DP_fld_arenames_316": [
+      "um caçador de tesouros"
+    ],
+    "DP_fld_arenames_317": [
+      "uma visitante idosa das fontes termais"
+    ]
+  },
+  "english_dp_fld_areaname_townmap": {
+    "DP_fld_areaname_townmap_000": [
+      "Zona Misteriosa"
+    ],
+    "DP_fld_areaname_townmap_001": [
+      "GWS"
+    ],
+    "DP_fld_areaname_townmap_002": [
+      "Cidade de Jubilife"
+    ],
+    "DP_fld_areaname_townmap_003": [
+      "Companhia Pokétch"
+    ],
+    "DP_fld_areaname_townmap_004": [
+      "Escola de Treinadores"
+    ],
+    "DP_fld_areaname_townmap_005": [
+      "TV Jubilife"
+    ],
+    "DP_fld_areaname_townmap_006": [
+      "Cidade de Canalave"
+    ],
+    "DP_fld_areaname_townmap_007": [
+      "Museu de Mineração"
+    ],
+    "DP_fld_areaname_townmap_008": [
+      "Cidade de Oreburgh"
+    ],
+    "DP_fld_areaname_townmap_009": [
+      "Loja de Bicicletas"
+    ],
+    "DP_fld_areaname_townmap_010": [
+      "Cidade de Eterna"
+    ],
+    "DP_fld_areaname_townmap_011": [
+      "Catedral"
+    ],
+    "DP_fld_areaname_townmap_012": [
+      "Salão de Concursos"
+    ],
+    "DP_fld_areaname_townmap_013": [
+      "Casa de Poffins"
+    ],
+    "DP_fld_areaname_townmap_014": [
+      "Cidade de Hearthome"
+    ],
+    "DP_fld_areaname_townmap_015": [
+      "Cidade de Pastoria"
+    ],
+    "DP_fld_areaname_townmap_016": [
+      "Loja de Departamentos de Veilstone"
+    ],
+    "DP_fld_areaname_townmap_017": [
+      "Cidade de Veilstone"
+    ],
+    "DP_fld_areaname_townmap_018": [
+      "Biblioteca de Canalave"
+    ],
+    "DP_fld_areaname_townmap_019": [
+      "Mercado de Sunyshore"
+    ],
+    "DP_fld_areaname_townmap_020": [
+      "Cidade de Sunyshore"
+    ],
+    "DP_fld_areaname_townmap_021": [
+      "Farol da Vista"
+    ],
+    "DP_fld_areaname_townmap_022": [
+      "Cidade de Snowpoint"
+    ],
+    "DP_fld_areaname_townmap_023": [
+      "Liga Pokémon"
+    ],
+    "DP_fld_areaname_townmap_024": [
+      "Liga Pokémon"
+    ],
+    "DP_fld_areaname_townmap_025": [
+      "Área de Luta"
+    ],
+    "DP_fld_areaname_townmap_026": [
+      "Mina de Oreburgh"
+    ],
+    "DP_fld_areaname_townmap_027": [
+      "Usina Eólica do Vale"
+    ],
+    "DP_fld_areaname_townmap_028": [
+      "Floresta de Eterna"
+    ],
+    "DP_fld_areaname_townmap_029": [
+      "Siderúrgica Fuego"
+    ],
+    "DP_fld_areaname_townmap_030": [
+      "Salão da Origem"
+    ],
+    "DP_fld_areaname_townmap_031": [
+      "Pilar de Lança"
+    ],
+    "DP_fld_areaname_townmap_032": [
+      "Monte Coronet"
+    ],
+    "DP_fld_areaname_townmap_033": [
+      "Grande Pântano"
+    ],
+    "DP_fld_areaname_townmap_034": [
+      "Ruínas de Solaceon"
+    ],
+    "DP_fld_areaname_townmap_035": [
+      "Caminho da Vitória"
+    ],
+    "DP_fld_areaname_townmap_036": [
+      "Parque Ramanas"
+    ],
+    "DP_fld_areaname_townmap_037": [
+      "Praça da Amizade"
+    ],
+    "DP_fld_areaname_townmap_038": [
+      "Caminho Devastado"
+    ],
+    "DP_fld_areaname_townmap_039": [
+      "Prado de Floaroma"
+    ],
+    "DP_fld_areaname_townmap_040": [
+      "Portão de Oreburgh"
+    ],
+    "DP_fld_areaname_townmap_041": [
+      "Ilha Lua Cheia"
+    ],
+    "DP_fld_areaname_townmap_042": [
+      "Montanha Stark"
+    ],
+    "DP_fld_areaname_townmap_043": [
+      "Caverna do Retorno"
+    ],
+    "DP_fld_areaname_townmap_044": [
+      "Fonte da Despedida"
+    ],
+    "DP_fld_areaname_townmap_045": [
+      "Paraíso Florido"
+    ],
+    "DP_fld_areaname_townmap_046": [
+      "Templo de Snowpoint"
+    ],
+    "DP_fld_areaname_townmap_047": [
+      "Caverna Desgarrada"
+    ],
+    "DP_fld_areaname_townmap_048": [
+      "Caverna do Maníaco por Ruínas"
+    ],
+    "DP_fld_areaname_townmap_049": [
+      "Túnel do Maníaco"
+    ],
+    "DP_fld_areaname_townmap_050": [
+      "Jardim de Troféus"
+    ],
+    "DP_fld_areaname_townmap_051": [
+      "Ilha de Ferro"
+    ],
+    "DP_fld_areaname_townmap_052": [
+      "Antigo Palacete"
+    ],
+    "DP_fld_areaname_townmap_053": [
+      "Sede da Equipe Galáctica"
+    ],
+    "DP_fld_areaname_townmap_054": [
+      "Caverna Verity"
+    ],
+    "DP_fld_areaname_townmap_055": [
+      "Lago Verity"
+    ],
+    "DP_fld_areaname_townmap_056": [
+      "Caverna Valor"
+    ],
+    "DP_fld_areaname_townmap_057": [
+      "Lago Valor"
+    ],
+    "DP_fld_areaname_townmap_058": [
+      "Caverna Acuity"
+    ],
+    "DP_fld_areaname_townmap_059": [
+      "Lago Acuity"
+    ],
+    "DP_fld_areaname_townmap_060": [
+      "Ilha Lua Nova"
+    ],
+    "DP_fld_areaname_townmap_061": [
+      "Parque de Batalha"
+    ],
+    "DP_fld_areaname_townmap_062": [
+      "Torre de Batalha"
+    ],
+    "DP_fld_areaname_townmap_063": [
+      "Margem do Lago Verity"
+    ],
+    "DP_fld_areaname_townmap_064": [
+      "Margem do Lago Valor"
+    ],
+    "DP_fld_areaname_townmap_065": [
+      "Hotel Grande Lago"
+    ],
+    "DP_fld_areaname_townmap_066": [
+      "Restaurante Sete Estrelas"
+    ],
+    "DP_fld_areaname_townmap_067": [
+      "Margem do Lago Acuity"
+    ],
+    "DP_fld_areaname_townmap_068": [
+      "Caminho da Fonte"
+    ],
+    "DP_fld_areaname_townmap_069": [
+      "Rota 201"
+    ],
+    "DP_fld_areaname_townmap_070": [
+      "Rota 202"
+    ],
+    "DP_fld_areaname_townmap_071": [
+      "Rota 203"
+    ],
+    "DP_fld_areaname_townmap_072": [
+      "Rota 204"
+    ],
+    "DP_fld_areaname_townmap_073": [
+      "Rota 205"
+    ],
+    "DP_fld_areaname_townmap_074": [
+      "Rota 206"
+    ],
+    "DP_fld_areaname_townmap_075": [
+      "Rota 207"
+    ],
+    "DP_fld_areaname_townmap_076": [
+      "Rota 208"
+    ],
+    "DP_fld_areaname_townmap_077": [
+      "Rota 209"
+    ],
+    "DP_fld_areaname_townmap_078": [
+      "Rota 210"
+    ],
+    "DP_fld_areaname_townmap_079": [
+      "Chalé da Montanha"
+    ],
+    "DP_fld_areaname_townmap_080": [
+      "Rota 211"
+    ],
+    "DP_fld_areaname_townmap_081": [
+      "Rota 212"
+    ],
+    "DP_fld_areaname_townmap_082": [
+      "Mansão Pokémon"
+    ],
+    "DP_fld_areaname_townmap_083": [
+      "Rota 213"
+    ],
+    "DP_fld_areaname_townmap_084": [
+      "Casa das Pegadas"
+    ],
+    "DP_fld_areaname_townmap_085": [
+      "Rota 214"
+    ],
+    "DP_fld_areaname_townmap_086": [
+      "Rota 215"
+    ],
+    "DP_fld_areaname_townmap_087": [
+      "Rota 216"
+    ],
+    "DP_fld_areaname_townmap_088": [
+      "Rota 217"
+    ],
+    "DP_fld_areaname_townmap_089": [
+      "Rota 218"
+    ],
+    "DP_fld_areaname_townmap_090": [
+      "Rota 219"
+    ],
+    "DP_fld_areaname_townmap_091": [
+      "Rota 221"
+    ],
+    "DP_fld_areaname_townmap_092": [
+      "Rota 222"
+    ],
+    "DP_fld_areaname_townmap_093": [
+      "Rota 224"
+    ],
+    "DP_fld_areaname_townmap_094": [
+      "Rota 225"
+    ],
+    "DP_fld_areaname_townmap_095": [
+      "Rota 227"
+    ],
+    "DP_fld_areaname_townmap_096": [
+      "Rota 228"
+    ],
+    "DP_fld_areaname_townmap_097": [
+      "Rota 229"
+    ],
+    "DP_fld_areaname_townmap_098": [
+      "Vila Twinleaf"
+    ],
+    "DP_fld_areaname_townmap_099": [
+      "Vila Sandgem"
+    ],
+    "DP_fld_areaname_townmap_100": [
+      "Floricultura"
+    ],
+    "DP_fld_areaname_townmap_101": [
+      "Vila Floaroma"
+    ],
+    "DP_fld_areaname_townmap_102": [
+      "Creche Pokémon"
+    ],
+    "DP_fld_areaname_townmap_103": [
+      "Vila Solaceon"
+    ],
+    "DP_fld_areaname_townmap_104": [
+      "Vila Celestic"
+    ],
+    "DP_fld_areaname_townmap_105": [
+      "Área de Sobrevivência"
+    ],
+    "DP_fld_areaname_townmap_106": [
+      "Área de Resort"
+    ],
+    "DP_fld_areaname_townmap_107": [
+      "Rota 220"
+    ],
+    "DP_fld_areaname_townmap_108": [
+      "Rota 223"
+    ],
+    "DP_fld_areaname_townmap_109": [
+      "Rota 226"
+    ],
+    "DP_fld_areaname_townmap_110": [
+      "Rota 230"
+    ],
+    "DP_fld_areaname_townmap_111": [
+      "Caminho Quebra-Mar"
+    ],
+    "DP_fld_areaname_townmap_112": [
+      "Ginásio de Oreburgh"
+    ],
+    "DP_fld_areaname_townmap_113": [
+      "Ginásio de Eterna"
+    ],
+    "DP_fld_areaname_townmap_114": [
+      "Ginásio de Pastoria"
+    ],
+    "DP_fld_areaname_townmap_115": [
+      "Ginásio de Veilstone"
+    ],
+    "DP_fld_areaname_townmap_116": [
+      "Ginásio de Hearthome"
+    ],
+    "DP_fld_areaname_townmap_117": [
+      "Ginásio de Snowpoint"
+    ],
+    "DP_fld_areaname_townmap_118": [
+      "Ginásio de Canalave"
+    ],
+    "DP_fld_areaname_townmap_119": [
+      "Ginásio de Sunyshore"
+    ],
+    "DP_fld_areaname_townmap_120": [
+      "Loja Pokémon"
+    ],
+    "DP_fld_areaname_townmap_121": [
+      "Sua Casa"
+    ],
+    "DP_fld_areaname_townmap_122": [
+      "Casa do Amigo"
+    ],
+    "DP_fld_areaname_townmap_123": [
+      "Laboratório de Pesquisa Pokémon"
+    ],
+    "DP_fld_areaname_townmap_124": [
+      "Casa da Dawn"
+    ],
+    "DP_fld_areaname_townmap_125": [
+      "Casa do Lucas"
+    ],
+    "DP_fld_areaname_townmap_126": [
+      "Imprensa Pokémon"
+    ],
+    "DP_fld_areaname_townmap_127": [
+      "Casa da Anciã"
+    ],
+    "DP_fld_areaname_townmap_128": [
+      "Sindicato das Fitas"
+    ],
+    "DP_fld_areaname_townmap_129": [
+      "Porto"
+    ],
+    "DP_fld_areaname_townmap_130": [
+      "Prédio Galáctico de Veilstone"
+    ],
+    "DP_fld_areaname_townmap_131": [
+      "Prédio da Equipe Galáctica de Eterna"
+    ],
+    "DP_fld_areaname_townmap_132": [
+      "Loja de Ervas"
+    ],
+    "DP_fld_areaname_townmap_133": [
+      "Loja de Bicicletas"
+    ],
+    "DP_fld_areaname_townmap_134": [
+      "Casa do Homem do Subsolo"
+    ],
+    "DP_fld_areaname_townmap_135": [
+      "Portão da Praça da Amizade"
+    ],
+    "DP_fld_areaname_townmap_136": [
+      "Portão do Grande Pântano"
+    ],
+    "DP_fld_areaname_townmap_137": [
+      "Loja de Estilos Metrônomo"
+    ],
+    "DP_fld_areaname_townmap_138": [
+      "Grande Subsolo"
+    ],
+    "DP_fld_areaname_townmap_139": [
+      "Centro Pokémon"
+    ]
+  }
+}

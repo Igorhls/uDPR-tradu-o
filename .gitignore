@@ -1,9 +1,7 @@
 __pycache__/
 *.pyc
 .venv/
-# Não versionar assets do jogo (direitos de terceiros)
-english
-english_*
+work/
+extracted_v1.0/
+extracted_luminescent/
 *.rar
-*.bundle
-saida/

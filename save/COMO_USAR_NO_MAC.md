@@ -1,6 +1,6 @@
 # Save Atual — Pokémon Brilliant Diamond (PT-BR)
 
-Última sincronização a partir do Windows: **31/10/2026 16:52**
+Última sincronização a partir do Windows: **31/10/2026 17:04**
 
 ## Arquivos incluídos
 - `nn/save/0100000011D90000/00000000000000010000000000000000/SaveData.bin` — Save principal
